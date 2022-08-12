@@ -65,7 +65,7 @@ body{
 .slider .img{
     display: block;
     
-    /* width: 900px !important; */
+    
     height: 100%;
     width: 100% !important;
     object-fit:cover;
@@ -91,5 +91,7 @@ body{
     border-radius: 100%;
     cursor: pointer;
     background-color: white;
-
+   transition: all 0.6s;
 }
+
+
